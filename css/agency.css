@@ -682,7 +682,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   background-color: #fed136;
 }
 
-p.ex1 {
-  padding-left: 200px;
-  padding-right: 200px;
+.p.ex1{
+  padding-top: 100px 0;
+  padding-bottom: 100px 0;
+  padding-left: 100px 0;
+  padding-right: 100px 0;
+  
 }
